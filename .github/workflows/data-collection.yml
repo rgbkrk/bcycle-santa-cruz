@@ -10,7 +10,7 @@ jobs:
 
     steps:
     # Checkout the repository
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     # Set up Deno
     - name: Set up Deno

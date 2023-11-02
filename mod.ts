@@ -1,3 +1,6 @@
+/**
+ * Gather station information from the Santa Cruz BCycle service
+ */
 export type StationStatus = {
   station_id: string;
   num_bikes_available: number;

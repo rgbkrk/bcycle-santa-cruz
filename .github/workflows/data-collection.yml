@@ -1,0 +1,40 @@
+name: BCycle Data Collection
+
+on:
+  schedule:
+    - cron: '10,30,50 * * * *'
+
+jobs:
+  collect_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout the repository
+    - uses: actions/checkout@v2
+
+    # Set up Deno
+    - name: Set up Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: v1.x
+
+    # Run the data collection script
+    - name: Run data collection
+      run: deno run --allow-net --allow-write collect-data.ts
+
+    # Check for changes
+    - name: Check for changes
+      run: git status
+
+    # Stage changed files
+    - name: Stage changes
+      run: git add .
+
+    # Commit the changes
+    - name: Commit changes
+      run: |
+        git commit -m "Automated data collection" || echo "No changes to commit"
+
+    # Push changes back to the repository
+    - name: Push changes
+      run: git push origin HEAD:main

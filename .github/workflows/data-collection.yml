@@ -33,6 +33,8 @@ jobs:
     # Commit the changes
     - name: Commit changes
       run: |
+        git config --local user.email "rgbkrk@gmail.com"
+        git config --local user.name "Kyle Kelley (via GitHub Actions)"
         git commit -m "Automated data collection" || echo "No changes to commit"
 
     # Push changes back to the repository

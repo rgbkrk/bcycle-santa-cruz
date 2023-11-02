@@ -2,7 +2,7 @@ name: BCycle Data Collection
 
 on:
   schedule:
-    - cron: '10,30,50 * * * *'
+    - cron: '0/10 * * * *'
 
 jobs:
   collect_and_commit:

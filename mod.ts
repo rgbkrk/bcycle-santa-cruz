@@ -17,12 +17,25 @@ export type StationInfo = {
   lon: number;
 };
 
-export type StationPayload = {
-  data: {
-    stations: StationStatus[] | StationInfo[];
-  };
-  last_updated: number;
+type Region = {
+  region_id: string;
+  region_name: string;
 };
+
+export type GBFSPayload<Data> = {
+  last_updated: number;
+  data: Data;
+};
+
+export type StationPayload<
+  S extends StationStatus | StationInfo = StationStatus
+> = GBFSPayload<{
+  stations: S[];
+}>;
+
+export type RegionPayload = GBFSPayload<{
+  regions: Region[];
+}>;
 
 export function isStationPayload(x: unknown): x is StationPayload {
   return (
@@ -32,6 +45,7 @@ export function isStationPayload(x: unknown): x is StationPayload {
 
 export function isStationStatus(x: unknown): x is StationStatus {
   return (
+    x != null &&
     typeof x == "object" &&
     "station_id" in x &&
     "num_bikes_available" in x &&
@@ -44,6 +58,9 @@ export function isStationStatus(x: unknown): x is StationStatus {
 }
 
 export function isStationInfo(x: unknown): x is StationInfo {
+  if (x == null) {
+    return false;
+  }
   return typeof x == "object" && "station_id" in x && "lat" in x && "lon" in x;
 }
 

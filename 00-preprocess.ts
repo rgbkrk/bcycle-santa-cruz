@@ -111,6 +111,6 @@ async function processBatches(): Promise<void> {
 await processBatches();
 
 // %% Verify a parquet file (you can change the batch number to verify different files)
-const verifyDf = await pl.readParquet("batches/bcycle_data_batch_1718.parquet");
+const verifyDf = await pl.readParquet("batches/bcycle_data_batch_1722.parquet");
 console.log(verifyDf.schema);
 verifyDf.head();

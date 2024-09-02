@@ -3,5 +3,6 @@
     "preprocess": "deno run --allow-read --allow-ffi src/data_processing/00_preprocess.ts",
     "merge": "deno run --allow-read --allow-ffi src/data_processing/01_merge_batches.ts",
     "pipeline": "deno task preprocess && deno task merge",
+    "collect": "deno run --allow-net --allow-write src/data_collection/collect.ts",
   },
 }

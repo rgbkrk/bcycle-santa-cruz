@@ -6,7 +6,7 @@ import { walk } from "https://deno.land/std@0.192.0/fs/walk.ts";
 async function loadAllBatches(): Promise<pl.DataFrame> {
   const batchDataFrames: pl.DataFrame[] = [];
 
-  for await (const entry of walk("./batches")) {
+  for await (const entry of walk("./data/processed")) {
     if (
       entry.isFile &&
       entry.name.startsWith("bcycle_data_batch_") &&

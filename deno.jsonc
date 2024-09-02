@@ -1,7 +1,7 @@
 {
   "tasks": {
-    "preprocess": "deno run --allow-read --allow-ffi 00-preprocess.ts",
-    "merge": "deno run --allow-read --allow-ffi 01-merge-batches.ts",
+    "preprocess": "deno run --allow-read --allow-ffi src/data_processing/00_preprocess.ts",
+    "merge": "deno run --allow-read --allow-ffi src/data_processing/01_merge_batches.ts",
     "pipeline": "deno task preprocess && deno task merge",
   },
 }

@@ -28,7 +28,7 @@ export type GBFSPayload<Data> = {
 };
 
 export type StationPayload<
-  S extends StationStatus | StationInfo = StationStatus
+  S extends StationStatus | StationInfo = StationStatus,
 > = GBFSPayload<{
   stations: S[];
 }>;
@@ -66,11 +66,11 @@ export function isStationInfo(x: unknown): x is StationInfo {
 
 export async function collectMore() {
   const station_status = await fetch(
-    "https://gbfs.bcycle.com/bcycle_santacruz/station_status.json"
+    "https://gbfs.bcycle.com/bcycle_santacruz/station_status.json",
   ).then((x) => x.json());
 
   const station_information = await fetch(
-    "https://gbfs.bcycle.com/bcycle_santacruz/station_information.json"
+    "https://gbfs.bcycle.com/bcycle_santacruz/station_information.json",
   ).then((x) => x.json());
 
   if (
@@ -84,7 +84,7 @@ export async function collectMore() {
     return {
       ...station,
       ...station_status.data.stations.find(
-        (x) => x.station_id == station.station_id
+        (x) => x.station_id == station.station_id,
       ),
     };
   });
@@ -92,7 +92,7 @@ export async function collectMore() {
   await Deno.mkdir("data", { recursive: true });
 
   await Deno.writeTextFile(
-    `data/stations-${station_status.last_updated}.json`,
-    JSON.stringify(stations, null, 2)
+    `data/raw/stations-${station_status.last_updated}.json`,
+    JSON.stringify(stations, null, 2),
   );
 }

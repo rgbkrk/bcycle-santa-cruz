@@ -96,7 +96,9 @@ async function processBatches(): Promise<void> {
     const batchData = pl.concat(uniformDataFrames);
 
     // Save batch to parquet
-    batchData.writeParquet(`batches/bcycle_data_batch_${batchKey}.parquet`);
+    batchData.writeParquet(
+      `data/processed/bcycle_data_batch_${batchKey}.parquet`,
+    );
     console.log(
       `Batch ${batchKey} saved to bcycle_data_batch_${batchKey}.parquet`,
     );
@@ -111,6 +113,8 @@ async function processBatches(): Promise<void> {
 await processBatches();
 
 // %% Verify a parquet file (you can change the batch number to verify different files)
-const verifyDf = await pl.readParquet("batches/bcycle_data_batch_1722.parquet");
+const verifyDf = await pl.readParquet(
+  "data/processed/bcycle_data_batch_1725.parquet",
+);
 console.log(verifyDf.schema);
 verifyDf.head();

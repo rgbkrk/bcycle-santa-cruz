@@ -1,0 +1,24 @@
+name: PR Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run data collection (dry run)
+        run: deno task collect
+
+      - name: Run data preprocessing pipeline (dry run)
+        run: deno task pipeline

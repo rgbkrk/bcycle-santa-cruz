@@ -1,6 +1,8 @@
 # BCycle Data Collection
 
-Santa Cruz rolled out a bikeshare service through BCycle. To my surprise and delight, I noticed they adhere to the [General Bikeshare Feed Specification](https://github.com/MobilityData/gbfs). You can find all the endpoints at https://gbfs.bcycle.com/bcycle_santacruz/gbfs.json.
+Santa Cruz rolled out a bikeshare service through BCycle. To my surprise and delight, I noticed they adhere to the [General Bikeshare Feed Specification](https://github.com/MobilityData/gbfs). You can find [all the endpoints BCycle Santa Cruz provides](https://gbfs.bcycle.com/bcycle_santacruz/gbfs.json) which includes the status and information of each station, such as the number of bikes available, the number of docks available, and the location of the station.
+
+As a frequent rider, I'm interested in finding out the changes in capacity over time for each station. Since the service is a near realtime feed, I can collect the data every 10 minutes and store it in this repository [using github actions](./.github/workflows/data-collection.yml).
 
 I'm interested in finding out the changes in capacity over time for each station. Since the service is a near realtime feed, I can collect the data every 10 minutes and store it in this repository [using github actions](./.github/workflows/data-collection.yml). Once I've had this running long enough, I'll analyze the changes in capacity over time.
 

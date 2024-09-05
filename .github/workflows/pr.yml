@@ -17,8 +17,11 @@ jobs:
         with:
           deno-version: v1.x
 
-      - name: Run data collection (dry run)
+      - name: Run data collection
         run: deno task collect
 
-      - name: Run data preprocessing pipeline (dry run)
+      - name: Run data preprocessing pipeline
         run: deno task pipeline
+
+      - name: Notebook smoke test
+        run: cd notebooks && deno run --allow-read --allow-write --allow-sys --allow-ffi 02_report.ts

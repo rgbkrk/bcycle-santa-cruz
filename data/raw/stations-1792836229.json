@@ -1,0 +1,1729 @@
+[
+  {
+    "station_id": "bcycle_santacruz_7429",
+    "name": "UCSC - The Village Lounge",
+    "address": "The UCSC Village Lounge",
+    "lat": 36.98856,
+    "lon": -122.05488,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7429&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7429&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7431",
+    "name": "UCSC - Theatre Arts",
+    "address": "453 Kerr Rd",
+    "lat": 36.99502,
+    "lon": -122.06188,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7431&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7431&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 9,
+    "num_docks_available": 14,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 9
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7433",
+    "name": "UCSC - Family Student Housing Transit Stop",
+    "address": "Heller Dr",
+    "lat": 36.99177,
+    "lon": -122.06681,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7433&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7433&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 1,
+    "num_docks_available": 3,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 1
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7434",
+    "name": "UCSC - Science & Engineering Library",
+    "address": "580 Red Hill Rd",
+    "lat": 36.9989,
+    "lon": -122.06031,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7434&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7434&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 8,
+    "num_docks_available": 10,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 8
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7437",
+    "name": "UCSC - Westside Research Park",
+    "address": "2300 Delaware Ave",
+    "lat": 36.95699,
+    "lon": -122.05844,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7437&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7437&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 3,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 3
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7438",
+    "name": "UCSC - Coastal Biology Building",
+    "address": "McAllister Way",
+    "lat": 36.95266,
+    "lon": -122.06539,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7438&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7438&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 1,
+    "num_docks_available": 7,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 1
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7439",
+    "name": "UCSC - Perk Coffee-Physical Sciences",
+    "address": "Between Steinhart Way and Red Hill Rd",
+    "lat": 36.99928,
+    "lon": -122.06146,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7439&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7439&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 11,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7440",
+    "name": "UCSC - Baskin Engineering",
+    "address": "McLaughlin Dr",
+    "lat": 37.00084,
+    "lon": -122.06221,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7440&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7440&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 9,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7443",
+    "name": "UCSC - Seymour Marine Discovery Center ",
+    "address": "100 McAllister Way",
+    "lat": 36.9502,
+    "lon": -122.06536,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7443&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7443&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 9,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 9
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7444",
+    "name": "UCSC - Humanities",
+    "address": "Cowell & Stevenson Road",
+    "lat": 36.9982,
+    "lon": -122.0542,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7444&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7444&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 9,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7460",
+    "name": "UCSC - East Field House Main Entrance",
+    "address": "East Field Service Rd",
+    "lat": 36.99515,
+    "lon": -122.05394,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7460&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7460&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 17,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7461",
+    "name": "UCSC - Graduate Student Housing",
+    "address": "Heller Dr. & McLaughlin Dr.",
+    "lat": 36.9995,
+    "lon": -122.06445,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7461&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7461&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 21,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7462",
+    "name": "UCSC - Hahn",
+    "address": "Parking Lot 101",
+    "lat": 36.9956,
+    "lon": -122.05695,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7462&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7462&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7463",
+    "name": "UCSC - I-Lounge",
+    "address": "Porter-Kresge Road",
+    "lat": 36.99641,
+    "lon": -122.06537,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7463&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7463&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 6,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7470",
+    "name": "Santa Cruz - Bay & High ",
+    "address": "Bay Drive & High Street",
+    "lat": 36.97709,
+    "lon": -122.05336,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7470&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7470&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 19,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7471",
+    "name": "Santa Cruz - Pacific & Cooper",
+    "address": "100-198 Cooper St",
+    "lat": 36.97509,
+    "lon": -122.02615,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7471&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7471&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 15,
+    "num_docks_available": 0,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 15
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7472",
+    "name": "Santa Cruz - Pacific & Lincoln",
+    "address": "1126 Pacific Ave",
+    "lat": 36.97246,
+    "lon": -122.02567,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7472&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7472&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 9,
+    "num_docks_available": 11,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 9
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7479",
+    "name": "Santa Cruz - Soquel & Cayuga",
+    "address": "Soquel Ave",
+    "lat": 36.97927,
+    "lon": -122.01189,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7479&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7479&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 3,
+    "num_docks_available": 3,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 3
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7480",
+    "name": "Santa Cruz - The Buttery",
+    "address": "702 Soquel Ave",
+    "lat": 36.97698,
+    "lon": -122.01577,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7480&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7480&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7482",
+    "name": "UCSC - Merrill College",
+    "address": "Merrill Road/Circle",
+    "lat": 36.99948,
+    "lon": -122.05286,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7482&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7482&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 12,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7483",
+    "name": "Santa Cruz - Wharf Roundabout",
+    "address": "35 Pacific Ave",
+    "lat": 36.96311,
+    "lon": -122.02447,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7483&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7483&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 10,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 10
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7484",
+    "name": "Santa Cruz - Mike Fox Skatepark",
+    "address": "250 San Lorenzo",
+    "lat": 36.96893,
+    "lon": -122.02028,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7484&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7484&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 3,
+    "num_docks_available": 3,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 3
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7485",
+    "name": "Santa Cruz - City Hall",
+    "address": "809 Center St",
+    "lat": 36.97422,
+    "lon": -122.02885,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7485&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7485&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 0,
+    "is_returning": 0,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7489",
+    "name": "Santa Cruz - Bay & California",
+    "address": "528 California Ave",
+    "lat": 36.96298,
+    "lon": -122.03497,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7489&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7489&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 7,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7490",
+    "name": "Santa Cruz - West Cliff Lighthouse",
+    "address": "701 W Cliff Dr",
+    "lat": 36.95186,
+    "lon": -122.02697,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7490&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7490&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 7,
+    "num_docks_available": 8,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 7
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7491",
+    "name": "Santa Cruz - Natural Bridges State Park",
+    "address": "204 Swanton Blvd",
+    "lat": 36.94983,
+    "lon": -122.05583,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7491&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7491&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 6,
+    "num_docks_available": 6,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 6
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7506",
+    "name": "UCSC - West Remote Parking Lot",
+    "address": "Parking Lot 127",
+    "lat": 36.98854,
+    "lon": -122.06469,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7506&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7506&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7507",
+    "name": "UCSC - Oakes College",
+    "address": "Oakes Rd/Circle",
+    "lat": 36.99003,
+    "lon": -122.06328,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7507&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7507&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 1,
+    "num_docks_available": 11,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 1
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7508",
+    "name": "UCSC - Rachel Carson College",
+    "address": "Parking Lot 146",
+    "lat": 36.99205,
+    "lon": -122.06458,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7508&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7508&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 15,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7509",
+    "name": "UCSC - Porter College Quad",
+    "address": "Porter College House B",
+    "lat": 36.995,
+    "lon": -122.0655,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7509&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7509&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 7,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 7
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7512",
+    "name": "UCSC - Quarry Plaza",
+    "address": "Parking Lot 102",
+    "lat": 36.99734,
+    "lon": -122.05557,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7512&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7512&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 13,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7519",
+    "name": "UCSC - Earth & Marine Sciences",
+    "address": "Red Hill Dr",
+    "lat": 36.99833,
+    "lon": -122.06,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7519&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7519&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 6,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7520",
+    "name": "UCSC - Lot 126 (Arts)",
+    "address": "Parking Lot 126",
+    "lat": 36.99329,
+    "lon": -122.06114,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7520&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7520&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 6,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7525",
+    "name": "UCSC - McHenry Library South",
+    "address": "McHenry Library Courtyard",
+    "lat": 36.99543,
+    "lon": -122.05945,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7525&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7525&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 20,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7526",
+    "name": "UCSC - Carriage House",
+    "address": "Parking Lot 115",
+    "lat": 36.98027,
+    "lon": -122.05212,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7526&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7526&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 7,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 7
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7527",
+    "name": "Santa Cruz - Bay & King",
+    "address": "King St",
+    "lat": 36.96803,
+    "lon": -122.04326,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7527&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7527&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 6,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 6
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7528",
+    "name": "Santa Cruz - Day's Market",
+    "address": "Seabright Ave",
+    "lat": 36.96768,
+    "lon": -122.00773,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7528&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7528&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 6,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 6
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7529",
+    "name": "Santa Cruz - Broadway & Cayuga",
+    "address": "1205 Broadway",
+    "lat": 36.97525,
+    "lon": -122.01027,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7529&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7529&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 0,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7530",
+    "name": "Santa Cruz - Garfield Library",
+    "address": "Woodrow Ave",
+    "lat": 36.95798,
+    "lon": -122.03805,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7530&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7530&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7531",
+    "name": "Santa Cruz - Swift & McPherson",
+    "address": "McPherson st",
+    "lat": 36.96003,
+    "lon": -122.04917,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7531&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7531&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 7,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7535",
+    "name": "Santa Cruz - County Government",
+    "address": "Water st",
+    "lat": 36.97885,
+    "lon": -122.02335,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7535&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7535&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 6,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7538",
+    "name": "Santa Cruz - Tannery Arts South Studios",
+    "address": "River St.",
+    "lat": 36.98756,
+    "lon": -122.02963,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7538&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7538&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 1,
+    "num_docks_available": 3,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 1
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7542",
+    "name": "Santa Cruz - Warrior's Stadium",
+    "address": "Front St",
+    "lat": 36.96807,
+    "lon": -122.02353,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7542&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7542&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7543",
+    "name": "Santa Cruz - Hotel Paradox",
+    "address": "Dakota Ave",
+    "lat": 36.9766,
+    "lon": -122.02065,
+    "region_id": "bcycle_santacruz_region_50",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7543&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7543&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 1,
+    "num_docks_available": 4,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 1
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7544",
+    "name": "UCSC - College 9-John R. Lewis College",
+    "address": "Parking Lot 166",
+    "lat": 37.00181,
+    "lon": -122.05808,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7544&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7544&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 10,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7589",
+    "name": "Santa Cruz - Mission & Nat. Bridges",
+    "address": "2901 Mission St",
+    "lat": 36.95975,
+    "lon": -122.05757,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7589&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7589&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 6,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 6
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7592",
+    "name": "UCSC - Cowell Circle",
+    "address": "Parking Lot 107",
+    "lat": 36.9979,
+    "lon": -122.05336,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7592&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7592&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 4,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7593",
+    "name": "Santa Cruz - Almar & Mission",
+    "address": "844 Almar Ave",
+    "lat": 36.96196,
+    "lon": -122.0437,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7593&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7593&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 7,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 7
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7601",
+    "name": "UCSC - East Remote Lot Exterior",
+    "address": "Parking Lot 104",
+    "lat": 36.99175,
+    "lon": -122.05476,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7601&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7601&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 8,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 8
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7604",
+    "name": "Santa Cruz - Grandview & Arroyo Seco",
+    "address": "41 Grandview St",
+    "lat": 36.96142,
+    "lon": -122.05142,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7604&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7604&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 6,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 6
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7613",
+    "name": "Santa Cruz - Bay and West Cliff",
+    "address": "122-178 Bay St",
+    "lat": 36.96141,
+    "lon": -122.02615,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7613&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7613&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7617",
+    "name": "Santa Cruz - Wharf Middle",
+    "address": "21 Municipal Wharf",
+    "lat": 36.95885,
+    "lon": -122.01821,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7617&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7617&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 1,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 1
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7625",
+    "name": "Santa Cruz - Beach and Cliff",
+    "address": "399 Beach St",
+    "lat": 36.96426,
+    "lon": -122.02028,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7625&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7625&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 6,
+    "num_docks_available": 0,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 6
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7660",
+    "name": "Santa Cruz - Pacific & Church",
+    "address": "Pacific & Church",
+    "lat": 36.97457,
+    "lon": -122.02655,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7660&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7660&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 9,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7667",
+    "name": "Santa Cruz - Surf City Laundry",
+    "address": "Cardiff Pl",
+    "lat": 36.9765,
+    "lon": -122.04992,
+    "region_id": "bcycle_santacruz_region_72",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7667&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7667&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 4,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7679",
+    "name": "UCSC - Kresge College",
+    "address": "510 Porter-Kresge Rd",
+    "lat": 36.99829,
+    "lon": -122.06674,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7679&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7679&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7702",
+    "name": "Live Oak - 7th & Brommer",
+    "address": "1025 7th Ave",
+    "lat": 36.9728,
+    "lon": -121.99555,
+    "region_id": "bcycle_santacruz_region_80",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7702&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7702&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 4,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7711",
+    "name": "Twin Lakes - Santa Cruz Harbor",
+    "address": "2 6th Ave",
+    "lat": 36.96298,
+    "lon": -121.99982,
+    "region_id": "bcycle_santacruz_region_82",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7711&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7711&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 3,
+    "num_docks_available": 3,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 3
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7716",
+    "name": "Santa Cruz - Front & River",
+    "address": "811 Front St",
+    "lat": 36.97579,
+    "lon": -122.02582,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7716&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7716&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 8,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7724",
+    "name": "Capitola - Cliff Drive",
+    "address": "4910 Cliff Drive",
+    "lat": 36.96955,
+    "lon": -121.95597,
+    "region_id": "bcycle_santacruz_region_53",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7724&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7724&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 3,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 3
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7727",
+    "name": "Capitola - City Hall",
+    "address": "420 Capitola Ave",
+    "lat": 36.97447,
+    "lon": -121.95321,
+    "region_id": "bcycle_santacruz_region_53",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7727&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7727&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7737",
+    "name": "Capitola - The Village",
+    "address": "195 Esplanade",
+    "lat": 36.97207,
+    "lon": -121.95167,
+    "region_id": "bcycle_santacruz_region_53",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7737&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7737&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 6,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7781",
+    "name": "Santa Cruz - Cedar & Cathcart",
+    "address": "523 Cedar St. ",
+    "lat": 36.97148,
+    "lon": -122.02691,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7781&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7781&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 7,
+    "num_docks_available": 1,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 7
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7782",
+    "name": "Santa Cruz - Depot Park",
+    "address": "119 Center St",
+    "lat": 36.96476,
+    "lon": -122.02647,
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7782&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7782&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 8,
+    "num_docks_available": 12,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 8
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7792",
+    "name": "UCSC - Book Store",
+    "address": "1156 High St",
+    "lat": 36.9774,
+    "lon": -122.05235,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7792&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7792&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 7,
+    "num_docks_available": 4,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 7
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_7793",
+    "name": "UCSC - Granary",
+    "address": "Parking Lot 118",
+    "lat": 36.97751,
+    "lon": -122.05282,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7793&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_7793&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 3,
+    "num_docks_available": 5,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 3
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_8823",
+    "name": "Santa Cruz - Boardwalk Ticket Booth",
+    "address": "400 Beach St",
+    "lat": 36.96449,
+    "lon": -122.0188,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8823&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8823&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 5,
+    "num_docks_available": 7,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 5
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_8842",
+    "name": "Santa Cruz - Boardwalk and Leibrandt",
+    "address": "400 Beach St",
+    "lat": 36.96493,
+    "lon": -122.01566,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8842&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8842&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 9,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_8857",
+    "name": "Santa Cruz - Pacific and Second",
+    "address": "102 Pacific Ave",
+    "lat": 36.96416,
+    "lon": -122.02542,
+    "region_id": "bcycle_santacruz_region_73",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8857&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8857&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 0,
+    "is_installed": 1,
+    "is_renting": 0,
+    "is_returning": 0,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_8936",
+    "name": "UCSC - Institute of the Arts and Sciences",
+    "address": "100 Panetta Ave",
+    "lat": 36.956,
+    "lon": -122.0508,
+    "region_id": "bcycle_santacruz_region_49",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8936&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_8936&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 4,
+    "num_docks_available": 0,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 4
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_9016",
+    "name": "Watsonville Pilot - Watsonville Health Center",
+    "address": "1432 Freedom Blvd",
+    "lat": 36.92697,
+    "lon": -121.76368,
+    "region_id": "bcycle_santacruz_region_54",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_9016&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_9016&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 0,
+    "num_docks_available": 0,
+    "is_installed": 0,
+    "is_renting": 0,
+    "is_returning": 0,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 0
+    }
+  },
+  {
+    "station_id": "bcycle_santacruz_9085",
+    "name": "Capitola - Esplanade Park",
+    "address": "Esplande",
+    "lat": 36.97212,
+    "lon": -121.95027,
+    "region_id": "bcycle_santacruz_region_53",
+    "rental_uris": {
+      "android": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_9085&platform=android",
+      "ios": "https://www.bcycle.com/applink?system_id=bcycle_santacruz&station_id=bcycle_santacruz_9085&platform=iOS"
+    },
+    "_bcycle_station_type": "3.0 Dock Station",
+    "num_bikes_available": 2,
+    "num_docks_available": 2,
+    "is_installed": 1,
+    "is_renting": 1,
+    "is_returning": 1,
+    "last_reported": 1792836229,
+    "num_bikes_available_types": {
+      "classic": 0,
+      "smart": 0,
+      "electric": 2
+    }
+  }
+]
